@@ -1,0 +1,13 @@
+content:
+- Patterns and Matcher
+- Match results
+- Reflection basics
+- Runtime type checking
+- Encapsulating object creation
+- Factory method
+- Template method
+- Command
+- Abstract factory
+- Decorator
+- Serialization basics
+- Custom serialization
